@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod mkdir -m 754 my_dir
+chmod mkdir 754 my_dir
